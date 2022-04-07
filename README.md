@@ -1,33 +1,4 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@ZiyovuddinTolipov 
-anuraghazra
-/
-github-readme-stats
-Public
-Code
-Issues
-74
-Pull requests
-180
-Discussions
-Actions
-Security
-Insights
-github-readme-stats/readme.md
-@gruns
-gruns fix grammar: add missing period (#1025)
-Latest commit 20ace75 on Feb 17
- History
- 68 contributors
-@anuraghazra@nathanchu@filiptronicek@lrusso96@reed-jones@nombrekeff@willianrod@Bas950@qwerty541@terror@zizi4n5@jha-vineet69
-447 lines (304 sloc)  18.8 KB
-   
+
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">GitHub Readme Stats</h2>
