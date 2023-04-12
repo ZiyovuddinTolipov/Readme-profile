@@ -2,7 +2,8 @@
 
 
 ![tolipovZiyovuddin's github stats](https://github-readme-stats.vercel.app/api?username=tolipovziyovuddin&show_icons=true&theme=tokyonight)
-[![trophy](https://github-profile-trophy.vercel.app/?ziyovuddintolipov=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+<br>
+[![trophy](https://github-profile-trophy.vercel.app/?ZiyovuddinTolipov=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![CodeWars](https://www.codewars.com/users/ziyovuddin/badges/large)]([https://www.codewars.com/users/ziyovuddin(https://www.codewars.com/users/ziyovuddin))
 
