@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![quvvatullayevogabek's github stats](https://github-readme-stats.vercel.app/api?username=rystambek&show_icons=true&theme=tokyonight)
+![tolipovZiyovuddin's github stats](https://github-readme-stats.vercel.app/api?username=tolipovziyovuddin&show_icons=true&theme=tokyonight)
 
 [![CodeWars](https://www.codewars.com/users/ziyovuddin/badges/large)]([https://www.codewars.com/users/ziyovuddin(https://www.codewars.com/users/ziyovuddin))
 
@@ -34,5 +34,5 @@
 ### Hi there 👋. I'm Ziyovuddin and I'm from [UZBEKISTAN🇺🇿](https://en.wikipedia.org/wiki/Uzbekistan). I'm 19 y.o. I study at [TATU ![image](https://user-images.githubusercontent.com/105332906/206888050-f68457da-1397-4adb-b063-d0c73ba28c67.png)](https://tuit.uz/)
 
 
-- **🔴 Visit My Instagram Accout [@Rustambek](https://www.instagram.com/tolipovziyovuddin/)**
-- **🔵 Chat with me on Telegram Messanger [@Rustambek](https://t.me/tolipovziyovuddin)**
+- **🔴 Visit My Instagram Accout [@tolipovziyovuddin](https://www.instagram.com/tolipovziyovuddin/)**
+- **🔵 Chat with me on Telegram Messanger [@tolipovziyovuddin](https://t.me/tolipovziyovuddin)**
